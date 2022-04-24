@@ -10,7 +10,7 @@
 
 ## Technical Details
 
-This single Docsify site, a customized [Docsify Open Publishing Starter Kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit), can render a remote Markdown file (i.e. README.md in another GitHub repository).  
+This single Docsify site, a customized [Docsify Open Publishing Starter Kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit), can render multiple remote Markdown files (i.e. a README.md file in another GitHub repository).  
 
 For example, to render the Markdown file https://raw.githubusercontent.com/hibbitts-design/docsify-open-course-starter-kit/main/README.md  you would use the URL https://paulhibbitts.github.io/docsify-project-docs/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-open-course-starter-kit/main
 
