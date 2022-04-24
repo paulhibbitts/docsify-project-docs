@@ -14,9 +14,6 @@ This single Docsify site, a customized [Docsify Open Publishing Starter Kit](htt
 
 For example, to render the **README.md** Markdown file https://raw.githubusercontent.com/hibbitts-design/docsify-open-course-starter-kit/main/README.md you would use the URL https://paulhibbitts.github.io/test-docsify-project-docs/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-open-course-starter-kit/main
 
-To render a Markdown file other than **README.md** you would need to pass the exact filename (for example **topic-1.md**) as well as the basepath https://paulhibbitts.github.io/remote-docsify/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-open-publishing-starter-kit/main/docs&homepage=https://raw.githubusercontent.com/hibbitts-design/docsify-open-publishing-starter-kit/main/docs/chapter-1/topic-1.md#/
-
-
 ---
 
 **🙇🏻‍♂️Credits**  
