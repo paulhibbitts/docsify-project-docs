@@ -1,6 +1,6 @@
 # Docsify Project Docs
 
-> This is a one-stop collection of all the documentation for my current [Hibbitts Design](https://hibbittsdesign.org/) open education and publishing Docsify projects, delivered by - you guessed it - the magical documentation site generator [Docsify](https://docsify.js.org/#/).
+> This is a one-stop collection of all the documentation for my current [Hibbitts Design](https://hibbittsdesign.org/) open education and publishing [Docsify](https://docsify.js.org/#/) projects, delivered by - you guessed it - the magical documentation site generator Docsify.
 
 ## All the Docs
 
