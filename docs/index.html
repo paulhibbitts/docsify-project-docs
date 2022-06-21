@@ -105,10 +105,10 @@
     var editThisPageLinkText = 'Edit this Page';
 
     // Set standalone to true to permanently hide the Sidebar and Navbar
-    var standalone = true;
+    var standalone = false;
 
     // Set ToC to true to permanently show page Table of Contents (Sidebar must also be hidden)
-    var ToC = true;
+    var ToC = false;
 
     // Get value from GET-parameter in URL
     // @param {array} name Parameter-name
@@ -155,8 +155,8 @@
       name: 'Docsify Open Publishing Starter Kit',
       // repo           : 'https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/',
       // coverpage      : 'coverpage.md',
-      loadSidebar       : !(getURLParameterByName(['standalone','embedded']) || standalone),
-      loadNavbar        : !(getURLParameterByName(['standalone','embedded']) || standalone),
+      loadSidebar       : !(getURLParameterByName(['standalone','embedded']) || standalone || true),
+      loadNavbar        : !(getURLParameterByName(['standalone','embedded']) || standalone || true),
       externalLinkTarget: '_self',
 
       // SIDEBAR NAVIGATION
