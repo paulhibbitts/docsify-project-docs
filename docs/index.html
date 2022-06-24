@@ -152,12 +152,15 @@
     window.$docsify = {
       // GENERAL SETTINGS
       // -----------------------------------------------------------------
-      name: 'Docsify Open Publishing Starter Kit',
+      name: 'Hibbitts Design Docsify Project Docs',
       // repo           : 'https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/',
+      // Rename homepage to README.md and set homepage to README.md to default to README file for Remote Docsify
+      homepage          : 'README.md',
       // coverpage      : 'coverpage.md',
       // Set last option for loadSidebar to true for Remote Docsify
       loadSidebar       : !(getURLParameterByName(['standalone','embedded']) || standalone || true),
       loadNavbar        : !(getURLParameterByName(['standalone','embedded']) || standalone || false),
+      // Set externalLinkTarget to '_self' for Remote Docsify
       externalLinkTarget: '_self',
 
       // SIDEBAR NAVIGATION
