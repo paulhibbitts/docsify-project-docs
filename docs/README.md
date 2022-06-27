@@ -12,14 +12,16 @@
 
 This is a customized [Docsify Open Publishing Starter Kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit) site which can render multiple remote Markdown files (i.e. a Markdown file in any GitHub repository).  
 
-For example, to render a Markdown file named **README.md** (the expected default name) the URL would be https://paulhibbitts.github.io/test-docsify-project-docs/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-open-course-starter-kit/main
+For example, to render a Markdown file named **README.md** (the expected default name) the URL would be https://paulhibbitts.github.io/test-docsify-project-docs/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-open-course-starter-kit/main/
 
 To render a Markdown file with a name other than README.md, for example **introduction.md**, the URL would be https://paulhibbitts.github.io/test-docsify-project-docs/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-open-publishing-starter-kit/main/docs&homepage=https://raw.githubusercontent.com/hibbitts-design/docsify-open-publishing-starter-kit/main/docs/introduction.md
 
+Tip: To get the path of a file on GitHub for the **basepath** URL parameter, tap the **Raw** button when viewing the file and then remove the filename. If not a README file, the path and the filename will also need to be passed using the **homepage** URL parameter.
+
 ## Additional Examples
 
-* [Docsify Open Course Starter Kit, as a Single Page](https://hibbitts-design.github.io/docsify-open-publishing-starter-kit-remote/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-open-course-starter-kit/main&standalone=true)
-* [Docsify Open Course Starter Kit, as a Single Page with Table of Contents](https://hibbitts-design.github.io/docsify-open-publishing-starter-kit-remote/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-open-course-starter-kit/main&standalone=true&toc=true#/)
+* [Docsify Open Course Starter Kit, as a Single Page](https://hibbitts-design.github.io/docsify-open-publishing-starter-kit-remote/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-open-course-starter-kit/main/&standalone=true)
+* [Docsify Open Course Starter Kit, as a Single Page with Table of Contents](https://hibbitts-design.github.io/docsify-open-publishing-starter-kit-remote/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-open-course-starter-kit/main/&standalone=true&toc=true#/)
 
 ---
 
