@@ -16,7 +16,7 @@ For example, to render a Markdown file named **README.md** (the expected default
 
 To render a Markdown file with a name other than README.md, for example **introduction.md**, the URL would be https://paulhibbitts.github.io/test-docsify-project-docs/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-open-publishing-starter-kit/main/docs&homepage=https://raw.githubusercontent.com/hibbitts-design/docsify-open-publishing-starter-kit/main/docs/introduction.md
 
-Tip: To get the path of a file on GitHub for the **basepath** URL parameter, tap the **Raw** button when viewing the file and then remove the filename. If not a README file, the path and the filename will also need to be passed using the **homepage** URL parameter.
+_TIP: To get the path of a file on GitHub for the **basepath** URL parameter, tap the **Raw** button when viewing the file and then remove the filename. If not a README file, the path and the filename will also need to be passed using the **homepage** URL parameter._
 
 ## Additional Examples
 
