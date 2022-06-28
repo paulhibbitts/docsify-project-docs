@@ -10,7 +10,7 @@
 
 ## Technical Details
 
-This is a customized [Docsify Open Publishing Starter Kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit) site which can render multiple remote Markdown files (i.e. a Markdown file in any GitHub repository).  
+This is a customized [Docsify Open Publishing Starter Kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit) site which can render multiple remote Markdown files (for example, a Markdown file in a GitHub repository).  
 
 For example, to render a Markdown file named **README.md** (the expected default name) as a standalone page the URL would be https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-open-course-starter-kit/main/
 
