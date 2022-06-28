@@ -20,7 +20,7 @@ To render a Markdown file with a name other than README.md, for example **introd
 
 To render a Markdown file with a name other than README.md, for example **introduction.md** as a standalone page with a table of contents, the URL would be https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-open-publishing-starter-kit/main/docs&homepage=introduction.md&toc=true
 
-_TIP: To get the path of a file on GitHub for the **basepath** URL parameter, tap the **Raw** button when viewing the file and then remove the filename. If not a README file, the path and the filename will also need to be passed using the **homepage** URL parameter._
+_TIP: To get the path of a file on GitHub for the **basepath** URL parameter, tap the **Raw** button when viewing the file and then remove the filename. If not a README file, the filename will need to be passed using the **homepage** URL parameter._
 
 ---
 
