@@ -4,9 +4,9 @@
 
 ## All the Docs
 
-* [Docsify Open Course Starter Kit](https://hibbitts-design.github.io/docsify-project-docs/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-open-course-starter-kit/main/#/)
-* [Docsify Open MultiCourse Starter Kit](https://hibbitts-design.github.io/docsify-project-docs/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-open-multicourse-starter-kit/main/#/)
-* [Docsify Open Publishing Starter Kit](https://hibbitts-design.github.io/docsify-project-docs/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-open-publishing-starter-kit/main/#/)
+* [Docsify Open Course Starter Kit](https://hibbitts-design.github.io/docsify-project-docs/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-open-course-starter-kit/main&sidebar=true)
+* [Docsify Open MultiCourse Starter Kit](https://hibbitts-design.github.io/docsify-project-docs/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-open-multicourse-starter-kit/main&sidebar=true)
+* [Docsify Open Publishing Starter Kit](https://hibbitts-design.github.io/docsify-project-docs/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-open-publishing-starter-kit/main&sidebar=true)
 
 ## Technical Details
 
